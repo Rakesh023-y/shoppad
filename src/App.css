@@ -1,0 +1,105 @@
+.selected___item{
+  height: 25px;
+  width: 100px;
+  border-radius: 25px;
+}
+.text__size{
+ font-size: smaller;
+ padding: 5px;
+
+}
+.card___style{
+height: 600px;
+border: hidden;
+}
+.image___style{
+  height: 450px;
+}
+.selected___itemprice{
+  height: 25px;
+  width: 150px;
+ border: unset !important;
+}
+.selected___itemprice:focus-visible{
+  border: unset !important;
+  outline: unset !important;
+}
+.selected___itemfabric{
+  height: 25px;
+  width: 200px;
+  border-radius: 10px;
+}
+.checkbox__style{
+  margin-left: 50px;
+  border-radius: 10px;
+}
+.select__wraper{
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding-right: 60px;
+
+}
+
+
+.col_1:focus-visible{
+  outline: unset !important;
+  border: unset !important;
+}
+.product_row{
+  margin-top: 40px;
+}
+.checkbox_item{
+  margin-left: 20px;
+}
+._card{
+   height: 450px;
+   border: none;
+   margin-left: 50px;
+}
+.image{
+  height: 300px;
+}
+.listprice{
+  margin-left: 4px;
+  text-decoration: line-through;
+  color: gray;
+}
+.mrp{
+  text-emphasis-color: solid black;
+  color: black;
+  font-weight: bold;
+}
+.filter_img{
+  height: 20px;
+  margin-left: 100px;
+}
+.sort_img{
+  height: 20px;
+  margin-left: 50px;
+}
+.txt{
+  font-size: small;
+  font-weight: bold;
+  margin-left: 5px;
+}
+.arrow{
+  width: 30px;
+  height: 30px;
+}
+.top_head_txt{
+margin-left: 5px;
+font-weight:bold ;
+}
+.search_icon{
+  height: 25px;
+  width: 25px;
+  margin-left: 150px;
+}
+.wishlist{
+  margin-left: 20px;
+}
+.bag{
+  height: 25px;
+  width: 25px;
+  margin-left: 20px;
+}
